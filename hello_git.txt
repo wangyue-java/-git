@@ -1,2 +1,2 @@
 hello my git face.
-123456
+123456  edit from remote.
